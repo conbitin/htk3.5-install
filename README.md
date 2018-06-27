@@ -1,7 +1,9 @@
 # htk3.5-install
 
 ## 1. Pre-requirement install X11
+<pre>
 $ sudo apt-get install libx11-dev
+</pre>
 
 ## 2. Download the HTK version of Linux/Unit
 Go to [HTK download page](http://htk.eng.cam.ac.uk/download.shtml). But first, need to register (free)
